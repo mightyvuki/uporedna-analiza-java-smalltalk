@@ -1,0 +1,2 @@
+- Unzipp .mse and .image
+- Open image im Pharo 12 (Moose 12)
